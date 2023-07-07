@@ -1,0 +1,36 @@
+/*!-- 
+But it must have the following features:
+
+
+6. Read about the text-transform property on MDN docs to make the h1 uppercase with CSS.
+  https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform 
+-->
+*/
+
+h1 {
+
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    text-transform: uppercase;
+    
+
+}
+
+img {
+    width: 100%;
+    border: 5px solid white;
+    
+}
+
+#image {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
